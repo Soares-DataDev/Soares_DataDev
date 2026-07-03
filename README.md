@@ -1,9 +1,6 @@
 # Soares_DataDev
 ## 🌹 Hi, I'm [Mateus]!
 
-Here is the updated **About Me** section, pivoting from front-end design to data-driven storytelling and business intelligence:
-
-
 ### 💫 About Me
 I am an aspiring Data Analyst passionate about uncovering the stories hidden behind numbers. Currently deep-diving into MySQL, Power BI, and Python to transform raw data into meaningful insights. I love creating clean, functional dashboards that help teams make data-driven decisions.
 
